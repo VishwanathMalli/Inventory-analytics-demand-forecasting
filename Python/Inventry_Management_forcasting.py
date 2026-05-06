@@ -4,7 +4,7 @@ from prophet import Prophet
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-df = pd.read_csv(r"c:\Users\esvxxxi\Downloads\inventory-analytics-demand-forecasting\final_inventory_dataset.csv")
+df = pd.read_csv()  #input path of final_inventory_dataset.csv
 
 # Convert data types
 df['sale_date'] = pd.to_datetime(df['sale_date'])
@@ -167,7 +167,7 @@ final_df = final_df[final_df['y'].notna()]
 # -----------------------------
 # SAVE OUTPUT
 # -----------------------------
-output_path = r"c:\Users\esvxxxi\Downloads\inventory-analytics-demand-forecasting\final_forecast_dataset.csv"
+output_path = "please provide output path "  # output path to save final_forecast_dataset.csv
 final_df.to_csv(
     output_path,
     index=False,
