@@ -24,6 +24,21 @@ This project solves the problem by combining:
 into a single interactive Power BI dashboard.
 
 ---
+# 🖼️ Dashboard Preview
+
+## Inventory Executive Overview
+![Index](dashboard-screenshots/dashboard_1.png)
+
+## Inventory Executive Overview
+![Executive Overview](dashboard-screenshots/dashboard_2.png)
+
+## Inventory Risk Analysis
+![Risk Analysis](dashboard-screenshots/dashboard_3.png)
+
+## Demand Forecasting & Planning
+![Forecast Planning](dashboard-screenshots/dashboard_4.png)
+
+---
 
 # 🎯 Business Objectives
 
@@ -139,22 +154,6 @@ Built 3 interactive dashboard pages:
 - High-growth products indicate possible stock shortage risks
 - Declining forecast trends indicate potential overstock conditions
 - Forecasting improves proactive inventory decision-making
-
----
-
-# 🖼️ Dashboard Preview
-
-## Inventory Executive Overview
-![Index](dashboard-screenshots/dashboard_1.png)
-
-## Inventory Executive Overview
-![Executive Overview](dashboard-screenshots/dashboard_2.png)
-
-## Inventory Risk Analysis
-![Risk Analysis](dashboard-screenshots/dashboard_3.png)
-
-## Demand Forecasting & Planning
-![Forecast Planning](dashboard-screenshots/dashboard_4.png)
 
 ---
 
