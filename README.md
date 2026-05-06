@@ -145,13 +145,16 @@ Built 3 interactive dashboard pages:
 # 🖼️ Dashboard Preview
 
 ## Inventory Executive Overview
-![Executive Overview](dashboard-screenshots/dashboard_1.png)
+![Index](dashboard-screenshots/dashboard_1.png)
+
+## Inventory Executive Overview
+![Executive Overview](dashboard-screenshots/dashboard_2.png)
 
 ## Inventory Risk Analysis
-![Risk Analysis](dashboard-screenshots/dashboard_2.png)
+![Risk Analysis](dashboard-screenshots/dashboard_3.png)
 
 ## Demand Forecasting & Planning
-![Forecast Planning](dashboard-screenshots/dashboard_3.png)
+![Forecast Planning](dashboard-screenshots/dashboard_4.png)
 
 ---
 
